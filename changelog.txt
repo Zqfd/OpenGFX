@@ -1,3 +1,13 @@
+
+CUSTOM UPDATES:
+
+none
+
+
+OFFICIAL UPDATES:
+
+
+
 OpenGFX 7.1 (25 Sep 2021)
 -------------------------
 - Fix: [Makefile] Don't generate broken OBG

@@ -1,4 +1,4 @@
-# OpenGFX - 8bpp Graphics Base Set for [OpenTTD](https://www.openttd.org)
+# OpenGFX-crime-version - 8bpp Custom Graphics Base Set for [OpenTTD](https://www.openttd.org)
 
 ## Table of contents
 
